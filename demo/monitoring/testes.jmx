@@ -1,0 +1,12 @@
+<!--
+  Arquivo placeholder JMeter (.jmx).
+  Substitua/edite para criar um plano de teste completo:
+  - Adicione Thread Group com múltiplos usuários
+  - Adicione HTTP Request apontando para http://localhost:8080/alunos
+  - Configure listeners para gerar relatório HTML
+
+  Ferramenta sugerida: Apache JMeter (https://jmeter.apache.org/)
+-->
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.2">
+  <hashTree/>
+</jmeterTestPlan>
